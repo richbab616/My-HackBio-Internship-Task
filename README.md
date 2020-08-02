@@ -9,4 +9,4 @@ especially in drug development to enhance my research.
 I am presently having my Bioinformatics internship at HackBio which is going to run for 5weeks
 with the first week characterised already with different tasks,
 I am looking forward to learning a lot from the internship program
-and to form collaborations with other scientists present.
+and to form collaboration with other scientists present.
